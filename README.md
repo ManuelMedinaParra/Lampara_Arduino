@@ -12,7 +12,7 @@ El programa se inicializa dando al boton de subir tiempo, para seleccionar cuant
 de secado se requiere, el cual se va mostrando en una pantalla lcd, ademas de contar con un led
 que nos indica cuando estan la luces encendidas.
 
-Aunque parezca que el proyecto parece facil, nada mas alejado de la realidad, ya que el codigo mezcla funciones del reloj de cuarzo, para calcular el tiempo, sino tambien el control de la lcd y el codigo detras de la selección de tiempos, la parada y la finalización.
+Aunque parezca que el proyecto suena facil, nada mas alejado de la realidad, ya que el codigo mezcla funciones del reloj de cuarzo, para calcular el tiempo, sino tambien el control de la lcd y el codigo detras de la selección de tiempos, la parada y la finalización.
 El verdadero quebradero de cabeza, ha sido sin duda la parte de montaje y elcción de los dispositivos electronicos, ya que debido a problemas de voltajes, se ha tenido que hacer modificaciones y dedicarle tiempo para que todo funcionase como deberia.
 
 El progaram esta muy bien estructurado, al igual que las conexiones de todos los dispositivos 
