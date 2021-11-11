@@ -9,7 +9,7 @@ El dispositivo consta de un modulo de potencia en el cual se han soldado un cont
 de 12v a 5v, ya que las luces termicas necesitan 12v y el arduino funciona a 5v, ademas de contener un rele, el cual se excita a traves de un transistor controlado por una salida de arduino.
 
 El programa se inicializa dando al boton de subir tiempo, para seleccionar cuanto tiempo 
-de secado se requiere, el cual se va mostrando en una pantalla lcd,ademas de contar un led,
+de secado se requiere, el cual se va mostrando en una pantalla lcd, ademas de contar con un led
 que nos indica cuando estan la luces encendidas.
 
 Aunque parezca que el proyecto parece facil, nada mas alejado de la realidad, ya que el codigo mezcla funciones del reloj de cuarzo, para calcular el tiempo, sino tambien el control de la lcd y el codigo detras de la selección de tiempos, la parada y la finalización.
